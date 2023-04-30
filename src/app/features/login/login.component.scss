@@ -1,0 +1,17 @@
+.example-card {
+    max-width: 400px;
+    margin: 100px auto;    
+  }
+.mat-card-title {
+    text-align: center;
+    margin: 20px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;    
+}
+.mat-raised-button {
+    width: 100%;
+}
